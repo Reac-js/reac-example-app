@@ -1,0 +1,19 @@
+{
+  "name": "reac-example-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "reacjs": "^1.0.1",
+    "reacjs-mod": "^1.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.6"
+  }
+}
